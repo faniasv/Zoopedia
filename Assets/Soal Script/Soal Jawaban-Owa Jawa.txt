@@ -1,0 +1,13 @@
+#Owa Jawa aktif di siang hari. Ia adalah hewan? 
++Nokturnal
++Diornal 
++Hyperaktif
++Vivipar
++B
+
+#Owa Jawa terlihat di atas pepohonan. Ia adalah hewan? 
++Arboreal
++Aquatic
++Aerial
++Arial
++A

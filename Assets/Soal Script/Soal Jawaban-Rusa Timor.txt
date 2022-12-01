@@ -1,0 +1,13 @@
+Rusa Timor aktif saat siang. Ia hewan?
++Nokturnal
++Diurnal 
++Hyperaktif
++Vivipar
++B
+
+#Rusa Timor suka makan rerumputan, Ia hewan? 
++Omnivora
++Ovovivipar
++Herbivora
++Karnivora
++C
